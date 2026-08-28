@@ -1,0 +1,16 @@
+# Data and trained models — regenerated locally, not committed
+data/
+models/
+
+# Virtual environment
+phishenv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
