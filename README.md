@@ -4,7 +4,7 @@ A machine learning system for detecting phishing URLs and phishing/spam emails, 
 
 Originally built as a university dissertation project, then rebuilt from the ground up with a proper ML pipeline: cleaned data, dataset-artifact investigation, a LightGBM URL classifier, a TF-IDF/Logistic Regression email classifier, and a FastAPI + Streamlit deployment layer.
 
-**[Live demo](#) · [Full project writeup / case study](https://app.notion.com/p/Phishing-Spam-Detector-Combined-URL-Email-Classifier-3caff8f68e358025b3fece55707179dc)**
+**[Live demo](https://phishing-spam-detector-6t7y6praf9pdilabkcb9un.streamlit.app/) · [Full project writeup / case study](https://app.notion.com/p/Phishing-Spam-Detector-Combined-URL-Email-Classifier-3caff8f68e358025b3fece55707179dc)**
 
 ---
 
